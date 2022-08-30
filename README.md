@@ -8,6 +8,9 @@ In the ipynb file i have done EDA and model training-testing.  Also the project 
 The final test results:
 
 R2 score 0.7567039727333791
+
 MAE 4009.446986047438
+
 MSE 31814946.29993823
+
 RMSE 5640.473942847199
